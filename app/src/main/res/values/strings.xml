@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhoneVerification</string>
+    <string name="title_activity_verify">verify</string>
+</resources>
